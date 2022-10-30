@@ -1,0 +1,16 @@
+{
+"name": "usun555",
+"theme": "usun555",
+"version": "7.5.4",
+"description": "usun555 ทางเข้าหลักเว็บไซต์พนันเว็บตรง อันดับ 1 รับเครดิตฟรี",
+"keywords": [
+"usun555",
+"usun555 เครดิตฟรี",
+"usun555 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/usun555",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
